@@ -9,7 +9,7 @@ class Spy:
         self.rating = rating
         self.is_online = True
         self.chats = []
-        self.current_status_message = "Available"
+        self.current_status_message = "Busy"
 
 
 class ChatMessage:
