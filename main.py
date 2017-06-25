@@ -10,7 +10,8 @@ STATUS_MESSAGES = [
                    'My name sanjay, sanjay mehra',
                    'love is easy but I am very busy.',
                    'Typing.... Sir',
-                    'Pyar Mohabbat Dhokha Hai, Padh Le Beta Moka Hai.'
+                   'Pyar Mohabbat Dhokha Hai, Padh Le Beta Moka Hai.',
+                   '36 Aayengi 36 Jayengi Meri Wali To Mummy Layengi'
                    ]
 
 SPECIAL_MESSAGES = [
