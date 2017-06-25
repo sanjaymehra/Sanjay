@@ -7,9 +7,9 @@ from datetime import datetime
 
 STATUS_MESSAGES = [
                    'Hey there! Im using spyChat!',
-                   'My name sanjay, sanjay mehra',
+                   'My name sanjay, sanjay mehra yo yo',
                    'love is easy but I am very busy.',
-                   'Typing.... ',
+                   'Typing....',
                    'Pyar Mohabbat Dhokha Hai, Padh Le Beta Moka Hai.',
                    '36 Aayengi 36 Jayengi Meri Wali To Mummy Layengi'
                    ]
