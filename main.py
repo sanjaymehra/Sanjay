@@ -12,6 +12,8 @@ STATUS_MESSAGES = [
                    'Typing....',
                    'Pyar Mohabbat Dhokha Hai, Padh Le Beta Moka Hai.',
                    '36 Aayengi 36 Jayengi Meri Wali To Mummy Layengi'
+    ,               'hi wassup great'
+
                    ]
 
 SPECIAL_MESSAGES = [
