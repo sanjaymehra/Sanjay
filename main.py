@@ -6,7 +6,7 @@ from datetime import datetime
 # LIST....
 
 STATUS_MESSAGES = [
-                   'Hey there! Im using spyChat!',
+                   'Hey there! Im using h spyChat!',
                    'My name sanjay, sanjay mehra yo yo',
                    'love is easy but I am very busy.',
                    'Typing....',
